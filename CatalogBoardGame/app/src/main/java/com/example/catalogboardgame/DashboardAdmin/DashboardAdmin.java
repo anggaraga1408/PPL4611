@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.catalogboardgame.R;
+
 public class DashboardAdmin extends AppCompatActivity {
 
     @Override
