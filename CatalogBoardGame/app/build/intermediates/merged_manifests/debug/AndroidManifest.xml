@@ -25,6 +25,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.catalogboardgame.DashboardAdmin.DashboardAdmin" />
         <activity android:name="com.example.catalogboardgame.Sign.SignIn" />
         <activity android:name="com.example.catalogboardgame.Sign.SignUp" />
         <activity android:name="com.example.catalogboardgame.MainActivity" >
