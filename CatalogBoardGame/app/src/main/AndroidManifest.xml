@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DashboardAdmin.DashboardAdmin"></activity>
+        <activity android:name=".user.DashboardUser"></activity>
+        <activity android:name=".DashboardAdmin.DashboardAdmin" />
         <activity android:name=".Sign.SignIn" />
         <activity android:name=".Sign.SignUp" />
         <activity android:name=".MainActivity">
